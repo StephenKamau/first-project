@@ -1,2 +1,2 @@
 # first-project
-Dev brach for edits only
+Dev branch for edits only
